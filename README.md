@@ -1,2 +1,2 @@
-# Machine-Learning-Linear-Regression-
-Linear Regression project on Reliance Stock Prices 
+# Linear-Regression-Stock Analysis
+Machine Learning by Linear Regression project on Reliance Stock Prices 
